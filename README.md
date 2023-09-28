@@ -1,7 +1,7 @@
-# Formulário com PHP (persistência e validações) 💻
+# Conexão ao Banco de Dados com PHP 💻
 
 
-Trabalho sobre Formulários em PHP para a matéria de Desenvolvimento Web II.
+Exercicio de criação de uma aplicação para manipular tabelas em um banco de dados através do PHP para a matéria de Desenvolvimento Web II.
 
 Materiais utilizados para a realização da atividade foram os PDFs da aula, <br>
 que se encontram no github do professor da disciplica, Daniel Domenico.
